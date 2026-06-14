@@ -1,0 +1,7 @@
+RENDER_FACTOR = 35
+
+SUPPORTED_ERAS = [
+    "1920s",
+    "WWII",
+    "1950s"
+]
